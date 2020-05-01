@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 714d7887e6d8f464abbd716c51a75590, type: 3}
+  m_Name: IronLeggingsCraft
+  m_EditorClassIdentifier: 
+  CraftName: "\u9244\u306E\u8DB3\u5177"
+  icon: {fileID: 21300000, guid: 147938cc12bcb664eafd0d86163a49d6, type: 3}
+  product: {fileID: 11400000, guid: b06ac5e29067f2a4882847f938c96bf0, type: 2}
+  necessaryItem:
+  - {fileID: 11400000, guid: 55b0736c79ca50646a7064ed96fd3281, type: 2}
+  - {fileID: 11400000, guid: 320ccce2adf5c824c90acdb7a7e71642, type: 2}
+  - {fileID: 11400000, guid: 2965c87f64ee10c4c99261ef1ade5386, type: 2}
+  necessaryNum: 070000000400000002000000
+  necessaryText:
+  - "\u9244\u30A4\u30F3\u30B4\u30C3\u30C8\xD77"
+  - "\u5E03\xD74"
+  - "\u9769\xD72"

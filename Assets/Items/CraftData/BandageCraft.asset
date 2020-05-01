@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 714d7887e6d8f464abbd716c51a75590, type: 3}
+  m_Name: BandageCraft
+  m_EditorClassIdentifier: 
+  CraftName: "\u5305\u5E2F"
+  icon: {fileID: 21300000, guid: 1de83860c8e612c4888bd7613c4e6bcf, type: 3}
+  product: {fileID: 11400000, guid: 510e090bb1dd6794ab0f67edfe0adc4f, type: 2}
+  necessaryItem:
+  - {fileID: 11400000, guid: fe1e2858ba590ce47b8e2cc85da0aefd, type: 2}
+  - {fileID: 11400000, guid: 320ccce2adf5c824c90acdb7a7e71642, type: 2}
+  necessaryNum: 0200000001000000
+  necessaryText:
+  - "\u85AC\u8349\xD72"
+  - "\u5E03\xD72"

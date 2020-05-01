@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4035780384db3c42af115d614b9de47, type: 3}
+  m_Name: IronOreData
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: "\u9244\u9271\u77F3"
+  icon: {fileID: 21300000, guid: 1b785d9dc268b8041b2c31725e3f6c8d, type: 3}
+  Description:
+  - "\u7D20\u6750"
+  isStack: 1

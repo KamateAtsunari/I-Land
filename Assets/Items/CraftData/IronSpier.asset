@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 714d7887e6d8f464abbd716c51a75590, type: 3}
+  m_Name: IronSpier
+  m_EditorClassIdentifier: 
+  CraftName: "\u9244\u69CD"
+  icon: {fileID: 21300000, guid: 26538ad692878c94ba7b324ffb7f346d, type: 3}
+  product: {fileID: 11400000, guid: 39f99dc02f253cb41afdb152a5349a78, type: 2}
+  necessaryItem:
+  - {fileID: 11400000, guid: 55b0736c79ca50646a7064ed96fd3281, type: 2}
+  - {fileID: 11400000, guid: 5e89683adff40ba409d26134f93f9d17, type: 2}
+  - {fileID: 11400000, guid: b901d1d083dee83479d1dabfb7f6042f, type: 2}
+  necessaryNum: 050000000600000003000000
+  necessaryText:
+  - "\u9244\u30A4\u30F3\u30B4\u30C3\u30C8\xD75"
+  - "\u6728\u6750\xD76"
+  - "\u8349\u7D10\xD73"

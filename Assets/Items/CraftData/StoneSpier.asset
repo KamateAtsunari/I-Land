@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 714d7887e6d8f464abbd716c51a75590, type: 3}
+  m_Name: StoneSpier
+  m_EditorClassIdentifier: 
+  CraftName: "\u77F3\u69CD"
+  icon: {fileID: 21300000, guid: dee4dc1657071a840bed776ba16c2158, type: 3}
+  product: {fileID: 11400000, guid: ff4f3372b7c82344da4dc56a42061fe5, type: 2}
+  necessaryItem:
+  - {fileID: 11400000, guid: 12a55818971fdfe48baec47102baabd9, type: 2}
+  - {fileID: 11400000, guid: 28746780f0f398f47be3987969b38257, type: 2}
+  - {fileID: 11400000, guid: b901d1d083dee83479d1dabfb7f6042f, type: 2}
+  necessaryNum: 030000000200000001000000
+  necessaryText:
+  - "\u77F3\xD73"
+  - "\u679D\xD72"
+  - "\u8349\u7D10\xD71"
